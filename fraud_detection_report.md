@@ -1,3 +1,9 @@
+
+**CHEMLAL Basma** 
+22006630
+
+![basmacopy](https://github.com/user-attachments/assets/326e8578-d5bd-47ce-81db-1bce5791a62d)
+
 # Rapport Académique : Détection de Fraudes Transactionnelles sur Données Déséquilibrées
 
 ---
