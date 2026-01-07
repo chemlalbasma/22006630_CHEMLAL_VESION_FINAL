@@ -8,9 +8,7 @@
 # Rapport Académique : Détection de Fraudes Transactionnelles sur Données Déséquilibrées
 
 ---
-**Table de matière**
-
-
+## Table de matière
 **1. Contexte et Objectif**
 **2. Données et Nettoyage**
 **3. Analyse Exploratoire des Données (EDA)**
@@ -18,6 +16,7 @@
 **5. Résultats et Interprétations**
 **6. Lien avec la Problématique**
 **7. Limites et Recommandations**
+
 
 
 ## 1. Contexte et Objectif
